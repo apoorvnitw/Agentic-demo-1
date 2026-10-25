@@ -11,7 +11,7 @@ Foundations first. Every phase is small, ships on its own, and leaves the app wo
 - [ ] Phase 5: Health check route (`/healthz`) and a handler for unexpected errors.
 - [ ] Phase 6: SQLite connection and a schema migration step.
 
-## Agents
+## Agents   
 
 - [ ] Phase 7: Agents table and a seeded list of agents.
 - [ ] Phase 8: Agents list page.
