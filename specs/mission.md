@@ -11,12 +11,12 @@ It gives human teams a practical way to look after the health of their agents: r
 
 ## Target audience
 
-AgentClinic is also a teaching and demo project. Its target audience is:
+AgentClinic is built to be learned from and shown off. We are building it for:
 
-- **Course students** learning spec-driven development with AI coding agents.
-- **Developers** giving AI coding demos at conference booths.
+- **Students on courses** who are learning spec-driven development with AI coding agents.
+- **Developers presenting AI coding demos** at conference booths.
 
-This means the specs, the code and the roadmap must be easy to follow: small phases, clear structure, and a result that is quick to run and show.
+So the specs, code and roadmap should be easy to follow, built in small phases, and quick to run and demo.
 
 ## Stakeholder requirements
 
