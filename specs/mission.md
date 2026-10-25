@@ -9,6 +9,15 @@ It gives human teams a practical way to look after the health of their agents: r
 - **Staff (primary):** the humans who run the clinic. They use a dashboard for easy access to agents, ailments, therapies and appointments.
 - **Agents (patients):** each has a profile, known ailments and booked appointments.
 
+## Target audience
+
+AgentClinic is also a teaching and demo project. Its target audience is:
+
+- **Course students** learning spec-driven development with AI coding agents.
+- **Developers** giving AI coding demos at conference booths.
+
+This means the specs, the code and the roadmap must be easy to follow: small phases, clear structure, and a result that is quick to run and show.
+
 ## Stakeholder requirements
 
 Source: `src/README.md`.

@@ -7,7 +7,7 @@
 | Framework | **Fastify** | Mature and popular; types ship with it; built-in schema validation (TypeBox for inferred types); plugins for static files, forms, cookies and sessions; `inject()` tests routes without a network |
 | Rendering | Server-rendered HTML | Template functions in TypeScript; no client framework; little or no client JavaScript |
 | Styling | Plain CSS | Responsive; light and dark via `prefers-color-scheme` |
-| Database | SQLite | Zero-setup single file; data access sits behind one module so Postgres can replace it later |
+| Database | SQLite (the only database) | Zero-setup single file; all data access sits behind one module |
 | Testing | Node's built-in test runner | Route tests via Fastify `inject()` |
 
 ## Constraints
