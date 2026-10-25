@@ -4,7 +4,7 @@ Foundations first. Every phase is small, ships on its own, and leaves the app wo
 
 ## Foundations
 
-- [ ] Phase 1: Fastify and TypeScript skeleton that serves a "Hello AgentClinic" page.
+- [x] Phase 1: Fastify and TypeScript skeleton that serves a "Hello AgentClinic" page.
 - [ ] Phase 2: `npm test` with one smoke test using `inject()`.
 - [ ] Phase 3: Environment-based configuration (port).
 - [ ] Phase 4: Shared page layout with navigation and base stylesheet (light and dark).
