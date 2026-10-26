@@ -4,14 +4,14 @@ Foundations first. Every phase is small, ships on its own, and leaves the app wo
 
 ## Foundations
 
-- [ ] Phase 1: Fastify and TypeScript skeleton that serves a "Hello AgentClinic" page.
+- [x] Phase 1: Fastify and TypeScript skeleton that serves a "Hello AgentClinic" page.
 - [ ] Phase 2: `npm test` with one smoke test using `inject()`.
 - [ ] Phase 3: Environment-based configuration (port).
 - [ ] Phase 4: Shared page layout with navigation and base stylesheet (light and dark).
 - [ ] Phase 5: Health check route (`/healthz`) and a handler for unexpected errors.
 - [ ] Phase 6: SQLite connection and a schema migration step.
 
-## Agents
+## Agents   
 
 - [ ] Phase 7: Agents table and a seeded list of agents.
 - [ ] Phase 8: Agents list page.
